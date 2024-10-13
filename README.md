@@ -5,6 +5,10 @@
 - Program that determines the popularity of words in class names in Java-based projects hosted on GitHub
 - Kotlin + GitHub API
 
+## Results - Top 100
+
+- Look up root file `Results.txt`
+
 ## Results - Top 15
 
 Class | Count
